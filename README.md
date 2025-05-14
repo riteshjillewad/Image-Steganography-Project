@@ -1,10 +1,7 @@
 # 🕵️ Multimedia Steganography App
 A secure and interactive Streamlit web app for hiding encrypted messages in image files using **LSB steganography** and **Fernet encryption**. Users can upload images, encrypt and embed secret messages, then later extract and decrypt them with the correct key.
 
----
-
 ## 🔐 Features
-
 - User authentication system
 - Secure **Fernet encryption** for messages
 - Hide secret messages in PNG/JPG images using **Least Significant Bit (LSB)** technique
