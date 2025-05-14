@@ -23,6 +23,16 @@ In this app, we use a form of image-based steganography:
 
 **This dual approach of encryption + steganography increases both the security and the secrecy of the message**.
 
-## 📸 Demo
+## 📸 App Screenshots
 
 ![Image](https://github.com/user-attachments/assets/c346dee2-d80d-4bae-a049-85efd469523a)
+
+![Image](https://github.com/user-attachments/assets/946e2421-4263-4129-bea1-973f329c612b)
+
+![image](https://github.com/user-attachments/assets/97e417a4-9f27-46bb-a0c3-65f80a045822)
+
+![image](https://github.com/user-attachments/assets/40c6dc08-676f-4172-82c0-5e104e0da78e)
+
+
+
+
