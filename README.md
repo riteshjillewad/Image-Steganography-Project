@@ -50,6 +50,12 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-> **Default credentials**:
-> - Username: admin
-> - Password: password
+### **Default credentials**:
+- Username: admin
+- Password: password
+
+## 🧠 How It Works
+- The app uses Fernet to encrypt your message before embedding.
+- LSB (Least Significant Bit) algorithm hides each bit of the encrypted message in the image pixel values.
+- On decoding, the message is extracted and then decrypted using the same key.
+- A full PDF report is generated with metadata and decoded message content.
