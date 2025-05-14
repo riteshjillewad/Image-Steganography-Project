@@ -14,4 +14,9 @@ A secure and interactive Streamlit web app for hiding encrypted messages in imag
 
 # 🧬 What is Steganography?
 ![Image](https://github.com/user-attachments/assets/3021bcef-ff98-4dd4-ba97-cf7a0f458813)
-Steganography is the art and science of hiding secret information within ordinary, non-secret files — like images, audio, or video — in such a way that only the sender and intended recipient know of its existence. It differs from encryption, which hides the contents of a message, because steganography hides the existence of the message itself.
+Steganography is the art and science of **hiding secret information** within ordinary, non-secret files — like images, audio, or video — in such a way that only the sender and intended recipient know of its existence. It differs from encryption, which hides the contents of a message, because steganography hides the existence of the message itself.<br>
+In this app, we use a form of image-based steganography:
+- The secret message is first encrypted using the Fernet symmetric encryption method.
+- Then, the encrypted message is embedded inside the least significant bits (LSBs) of the image pixels.
+- These LSB changes are subtle and do not visibly affect the image.
+- To retrieve the message, the image is decoded to extract the hidden bits, which are then decrypted using the original key.
