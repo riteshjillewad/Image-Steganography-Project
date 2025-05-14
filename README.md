@@ -22,3 +22,7 @@ In this app, we use a form of image-based steganography:
 - To retrieve the message, the image is decoded to extract the hidden bits, which are then decrypted using the original key.
 
 **This dual approach of encryption + steganography increases both the security and the secrecy of the message**.
+
+## 📸 Demo
+
+![Image](https://github.com/user-attachments/assets/c346dee2-d80d-4bae-a049-85efd469523a)
