@@ -34,5 +34,22 @@ In this app, we use a form of image-based steganography:
 ![image](https://github.com/user-attachments/assets/40c6dc08-676f-4172-82c0-5e104e0da78e)
 
 
+## 🚀 Getting Started
 
+### 1. Clone the Repository
 
+```bash
+git clone https://github.com/yourusername/multimedia-steganography-app.git
+cd multimedia-steganography-app
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the App
+```bash
+streamlit run app.py
+```
+> **Default credentials**:
+> - Username: admin
+> - Password: password
