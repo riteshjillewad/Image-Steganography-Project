@@ -71,6 +71,6 @@ streamlit run app.py
 
 **Note**: This tool is for educational purposes. Always ensure proper security and legal guidelines when using steganography.
 
-# 📄 Author
+## 📄 Author
 **Ritesh Jillewad**<br>
 14-05-2025
