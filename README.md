@@ -59,3 +59,18 @@ streamlit run app.py
 - LSB (Least Significant Bit) algorithm hides each bit of the encrypted message in the image pixel values.
 - On decoding, the message is extracted and then decrypted using the same key.
 - A full PDF report is generated with metadata and decoded message content.
+
+## 📁 Project Structure
+```
+├── app.py
+├── uploads/             # Temporary image uploads
+├── encoded/             # Encoded image output
+├── requirements.txt
+└── README.md
+```
+
+> **Note**: This tool is for educational purposes. Always ensure proper security and legal guidelines when using steganography.
+
+# 📄 Author
+**Ritesh Jillewad**<br>
+14-05-2025
