@@ -69,7 +69,7 @@ streamlit run app.py
 └── README.md
 ```
 
-> **Note**: This tool is for educational purposes. Always ensure proper security and legal guidelines when using steganography.
+**Note**: This tool is for educational purposes. Always ensure proper security and legal guidelines when using steganography.
 
 # 📄 Author
 **Ritesh Jillewad**<br>
