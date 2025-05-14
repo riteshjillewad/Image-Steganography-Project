@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/3021bcef-ff98-4dd4-ba97-cf7a0f458813)
-
 # 🕵️ Multimedia Steganography App
 A secure and interactive Streamlit web app for hiding encrypted messages in image files using **LSB steganography** and **Fernet encryption**. Users can upload images, encrypt and embed secret messages, then later extract and decrypt them with the correct key.
 
@@ -13,3 +11,7 @@ A secure and interactive Streamlit web app for hiding encrypted messages in imag
 - PDF report generation after decoding
 - Downloadable encoded images
 - Light/Dark theme toggle with modern UI styling
+
+# 🧬 What is Steganography?
+![Image](https://github.com/user-attachments/assets/3021bcef-ff98-4dd4-ba97-cf7a0f458813)
+Steganography is the art and science of hiding secret information within ordinary, non-secret files — like images, audio, or video — in such a way that only the sender and intended recipient know of its existence. It differs from encryption, which hides the contents of a message, because steganography hides the existence of the message itself.
